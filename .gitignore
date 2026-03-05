@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+accounts.db
+accounts.txt
+tweets_anthropic.csv
