@@ -101,7 +101,7 @@ ___
 
 ## 🔒 Segurança
 
-Neste projeto, usamos variáveis de ambiente para proteger credenciais sensíveis. O arquivo `.gitignore`  garante que os seguintes arquivos **nunca sejam enviados ao Github**:
+Neste projeto, foi usado variáveis de ambiente para proteger credenciais sensíveis. O arquivo `.gitignore`  garante que os seguintes arquivos **nunca sejam enviados ao Github**:
 ```
 
 .env
