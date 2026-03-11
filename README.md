@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido para a disciplina de **Modelagem de Dados**, com o
   |---|---|
   | `selenium` | Responsável por controlar o Safari automaticamente |
   | `beautifulsoup4` | Utilizada para extração de dados do HTML renderizado |
-  | `lxml` | Parser rápido usado pelo BeautifulSoup4; podemos descrever o `lxml` como um tradutor de {'chave': 'valor'} para objeto no código |
+  | `lxml` | Parser rápido de HTML/XML usado pelo BeautifulSoup4 para transformar o HTML bruto da página em uma estrutura navegável, permitindo a extração dos dados |
   | `python-dotenv`| Lê as credenciais do arquivo `.env`, permitindo a segurança e o gerenciamento eficiente de dados sensíveis|
 
   ---
